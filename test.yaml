@@ -1,0 +1,12 @@
+
+    app_name: WeatherApp
+    version: 1.0
+    settings:
+      api_key: your_api_key_here
+      units: metric
+      language: ru
+    features:
+      - current_weather
+      - forecast
+      - alerts
+    
